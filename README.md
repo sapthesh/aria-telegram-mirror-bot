@@ -1,5 +1,7 @@
 # aria-telegram-mirror-bot
 
+## This one supports Index Links. (Copy `index.ts` to your heroku Repo and add `INDEX_DOMAIN: '',` in `.constants.js`
+
 ## Watch Video
 https://drive.google.com/file/d/1q5VVCCreOuXsujRzZkBAv12WJ1KZvQ0I/view
 
